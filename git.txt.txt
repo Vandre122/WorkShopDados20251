@@ -1,3 +1,0 @@
-git add .
-git comit -m workshop
-git push
